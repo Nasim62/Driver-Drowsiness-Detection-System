@@ -1,4 +1,4 @@
-# Driver Drowsiness Detection
+# Driver Drowsiness Detection System
 
 This project aims to detect driver drowsiness using a machine learning model trained on a dataset of images of open and closed eyes, as well as yawning and non-yawning faces.
 
